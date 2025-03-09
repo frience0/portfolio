@@ -70,6 +70,15 @@ export const PROJECTS: IProject[] = [
     tech: ["javascript", "figma", "tailwind", "firebase"],
   },
   {
+    name: "Juan Graphico",
+    image: "/projects/juan.jpg",
+    blurImage: "/projects/blur/shirt-blur.png",
+    description: "Ecommerce Website MERN stack with payment method",
+    gradient: ["#245B57", "#004741"],
+    url: "https://graphico-fe.vercel.app/",
+    tech: ["redux", "react", "mongodb", "tailwind"],
+  },
+  {
     name: "Saasify Website Builder",
     image: "/projects/saasify.png",
     blurImage: "/projects/blur/saasify-blur.png",
@@ -77,15 +86,6 @@ export const PROJECTS: IProject[] = [
     gradient: ["#153BB9", "#0E2C8B"],
     url: "https://saasifybuilder.vercel.app/",
     tech: ["react", "next", "mysql", "prisma"],
-  },
-  {
-    name: "Shirt Threads",
-    image: "/projects/shirt.png",
-    blurImage: "/projects/blur/shirt-blur.png",
-    description: "Ecommerce Website MERN stack with payment method",
-    gradient: ["#245B57", "#004741"],
-    url: "https://shirt-threads-frontend.vercel.app/",
-    tech: ["figma", "react", "mongodb", "tailwind"],
   },
   {
     name: "Job Seekers",
@@ -201,7 +201,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Frontend at ShirtThreads",
+    title: "Hube Computer Manager",
     size: ItemSize.SMALL,
     subtitle: "",
     image: "/timeline/robot.svg",
@@ -297,7 +297,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Programming NC IV",
+    title: "BSIT Major in Programming",
     size: ItemSize.SMALL,
     subtitle: "Iligan Computer Institute",
     slideImage: "/timeline/sass.jpg",
