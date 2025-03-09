@@ -242,8 +242,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     type: NodeTypes.CHECKPOINT,
     title: "Graduated from College 🎓",
     size: ItemSize.SMALL,
-    subtitle:
-      "Spent years laying the foundation of Frontend Engineering and Programming",
+    subtitle: "Spent years laying the foundation of Frontend Engineering",
     image: "/timeline/school.svg",
     slideImage: "/timeline/bw.png",
     shouldDrawLine: true,
