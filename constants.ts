@@ -38,9 +38,9 @@ export const TYPED_STRINGS = [
 export const EMAIL = "marckfriencecoto30@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/marck-frience-coto-a53672232/",
-  github: "https://github.com/Unshack/",
-  medium: "https://medium.com/@marckfriencecoto30/",
+  linkedin: "https://www.linkedin.com/in/marck-frience-coto-31065a337/",
+  github: "https://github.com/Marck-Prog",
+  medium: "https://medium.com/@marckfriencecoto/",
   instagram: "https://www.instagram.com/",
   facebook: "https://www.facebook.com/",
   dribbble: "https://dribbble.com/Unshack",
@@ -121,8 +121,8 @@ export const SKILLS = {
     "javascript",
     "react",
     "redux",
-    "next",
-    "gsap",
+    "vue",
+    "laravel",
     "tailwind",
     "sass",
     "svg",
