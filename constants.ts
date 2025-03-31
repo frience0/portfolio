@@ -75,7 +75,7 @@ export const PROJECTS: IProject[] = [
     blurImage: '/projects/blur/shirt-blur.png',
     description: 'Ecommerce Website MERN stack with payment method',
     gradient: ['#245B57', '#004741'],
-    url: 'https://graphico-fe.vercel.app/',
+    url: 'https://graphico-ebriday-prod.vercel.app/',
     tech: ['redux', 'react', 'mongodb', 'tailwind'],
   },
   {
