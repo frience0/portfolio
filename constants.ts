@@ -261,7 +261,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: 'Professinal 2D Animator NCIII',
+    title: 'Professinal 3D Animator NCIII',
     size: ItemSize.SMALL,
     subtitle: 'Iligan Computer Institute.',
     image: '',
