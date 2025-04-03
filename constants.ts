@@ -212,7 +212,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: 'Graphic Artist @ Ram Computer',
     size: ItemSize.SMALL,
     subtitle:
-      'Conceptualizing and creating visual elements such as logos, product designs 🚀',
+      'Conceptualizing and creating visual elements for product designs 🚀',
     image: '/timeline/graphic.svg',
     slideImage: '/timeline/aftereffects.jpg',
     shouldDrawLine: true,
