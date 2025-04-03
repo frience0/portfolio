@@ -153,7 +153,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: 'FullStack at Juan Graphico',
     size: ItemSize.SMALL,
     subtitle:
-      'Implemented key features such as product catalog browsing, cart management, secure payment gateways, user authentication, and order processing',
+      'Implemented key features such as product catalog browsing, cart management, secure payment gateways, user authentication and order processing',
     image: '/timeline/shirt.svg',
     slideImage: '/timeline/shirt2.png',
     shouldDrawLine: true,
