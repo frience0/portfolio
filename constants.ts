@@ -150,7 +150,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: 'FullStack at Juan Graphico',
+    title: 'FullStack at Graphico',
     size: ItemSize.SMALL,
     subtitle:
       'Implemented key features such as product catalog browsing, cart management, secure payment gateways, user authentication and order processing',
