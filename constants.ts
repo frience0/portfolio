@@ -61,15 +61,6 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
   {
-    name: 'Gallant Homes - Property Listing',
-    image: '/projects/gallant.png',
-    blurImage: '/projects/blur/gall-blur.png',
-    description: 'MERN Stack user-friendly property listing design.',
-    gradient: ['#154052', '#1486b5'],
-    url: 'https://gallant-homes.onrender.com/',
-    tech: ['javascript', 'figma', 'tailwind', 'firebase'],
-  },
-  {
     name: 'Juan Graphico',
     image: '/projects/juan.jpg',
     blurImage: '/projects/blur/shirt-blur.png',
