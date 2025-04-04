@@ -61,13 +61,13 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
   {
-    name: 'Juan Graphico',
-    image: '/projects/juan.jpg',
-    blurImage: '/projects/blur/shirt-blur.png',
-    description: 'Ecommerce Website MERN stack with payment method',
-    gradient: ['#245B57', '#004741'],
-    url: 'https://graphico-ebriday-prod.vercel.app/',
-    tech: ['redux', 'react', 'mongodb', 'tailwind'],
+    name: 'Crypto Casino FE',
+    image: '/projects/casino.jpg',
+    blurImage: '/projects/blur/casino.jpg',
+    description: 'Casino Platform Website FE 🏆🎴',
+    gradient: ['#153BB9', '#0E2C8B'],
+    url: 'https://casino-fe-rho.vercel.app/',
+    tech: ['react', 'next', 'laravel', 'mysql'],
   },
   {
     name: 'Saasify Website Builder',
@@ -78,6 +78,16 @@ export const PROJECTS: IProject[] = [
     url: 'https://saasifybuilder.vercel.app/',
     tech: ['react', 'next', 'mysql', 'prisma'],
   },
+  {
+    name: 'Juan Graphico',
+    image: '/projects/juan.jpg',
+    blurImage: '/projects/blur/shirt-blur.png',
+    description: 'Ecommerce Website MERN stack with payment method',
+    gradient: ['#245B57', '#004741'],
+    url: 'https://graphico-ebriday-prod.vercel.app/',
+    tech: ['redux', 'react', 'mongodb', 'tailwind'],
+  },
+
   {
     name: 'Job Seekers',
     image: '/projects/jobs.png',
