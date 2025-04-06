@@ -61,7 +61,7 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
   {
-    name: 'Crypto Casino FE',
+    name: 'Gallant Property Homes',
     image: '/projects/property.jpg',
     blurImage: '/projects/blur/property.jpg',
     description: 'Real Estate Website Brokers 📊✨',
