@@ -61,7 +61,7 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
   {
-    name: 'Crypto Casino FE',
+    name: 'Gallant Property Homes',
     image: '/projects/property.jpg',
     blurImage: '/projects/blur/property.jpg',
     description: 'Real Estate Website Brokers 📊✨',
@@ -162,6 +162,23 @@ export enum ItemSize {
 export const TIMELINE: Array<TimelineNodeV2> = [
   {
     type: NodeTypes.CHECKPOINT,
+    title: '2025',
+    size: ItemSize.LARGE,
+    shouldDrawLine: false,
+    alignment: Branch.LEFT,
+  },
+  {
+    type: NodeTypes.CHECKPOINT,
+    title: 'Maintenance at Graphico',
+    size: ItemSize.SMALL,
+    subtitle: 'Performed critical maintenance and optimized the website.',
+    image: '/timeline/maintenance.svg',
+    slideImage: '/timeline/shirt2.png',
+    shouldDrawLine: true,
+    alignment: Branch.LEFT,
+  },
+  {
+    type: NodeTypes.CHECKPOINT,
     title: '2024',
     size: ItemSize.LARGE,
     shouldDrawLine: false,
@@ -172,7 +189,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: 'FullStack at Graphico',
     size: ItemSize.SMALL,
     subtitle:
-      'Implemented key features such as product catalog browsing, cart management, secure payment gateways, user authentication and order processing',
+      'Build and improved catalog, cart, payments, authentication, and order processing.',
     image: '/timeline/shirt.svg',
     slideImage: '/timeline/shirt2.png',
     shouldDrawLine: true,
@@ -228,7 +245,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: 'Graphic Artist @ Ram Computer',
+    title: 'Graphic Artist',
     size: ItemSize.SMALL,
     subtitle:
       'Conceptualizing and creating visual elements for product designs 🚀',
