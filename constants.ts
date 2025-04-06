@@ -62,12 +62,12 @@ export interface IProject {
 export const PROJECTS: IProject[] = [
   {
     name: 'Crypto Casino FE',
-    image: '/projects/casino.jpg',
-    blurImage: '/projects/blur/casino.jpg',
-    description: 'Casino Platform Website FE 🏆🎴',
+    image: '/projects/property.jpg',
+    blurImage: '/projects/blur/property.jpg',
+    description: 'Real Estate Website Brokers 📊✨',
     gradient: ['#153BB9', '#0E2C8B'],
-    url: 'https://casino-fe-rho.vercel.app/',
-    tech: ['react', 'next', 'laravel', 'mysql'],
+    url: 'https://gallant-homes.onrender.com/',
+    tech: ['react', 'firebase', 'mongodb', 'sass'],
   },
   {
     name: 'Saasify Website Builder',
@@ -77,6 +77,15 @@ export const PROJECTS: IProject[] = [
     gradient: ['#153BB9', '#0E2C8B'],
     url: 'https://saasifybuilder.vercel.app/',
     tech: ['react', 'next', 'mysql', 'prisma'],
+  },
+  {
+    name: 'Crypto Casino FE',
+    image: '/projects/casino.jpg',
+    blurImage: '/projects/blur/casino.jpg',
+    description: 'Casino Platform Website FE 🏆🎴',
+    gradient: ['#153BB9', '#0E2C8B'],
+    url: 'https://casino-fe-rho.vercel.app/',
+    tech: ['react', 'next', 'laravel', 'mysql'],
   },
   {
     name: 'Juan Graphico',
