@@ -61,6 +61,24 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
   {
+    name: "Innovast Digital Marketing",
+    image: "/projects/inno.jpg",
+    blurImage: "/projects/blur/inno-blur.jpg",
+    description: "Digital Design Agency Platform 🎨💼",
+    gradient: ["#153BB9", "#0E2C8B"],
+    url: "https://innovast.vercel.app/",
+    tech: ["next", "tailwind", "gsap", "typescript"],
+  },
+  {
+    name: "Juan Graphico",
+    image: "/projects/juan.jpg",
+    blurImage: "/projects/blur/shirt-blur.png",
+    description: "Ecommerce Website MERN stack with payment method 🛒💳",
+    gradient: ["#245B57", "#004741"],
+    url: "https://juan-graphico.com/",
+    tech: ["redux", "react", "mongodb", "tailwind"],
+  },
+  {
     name: "Gallant Property Homes",
     image: "/projects/property.jpg",
     blurImage: "/projects/blur/property.jpg",
@@ -87,16 +105,6 @@ export const PROJECTS: IProject[] = [
     url: "https://casino-fe-rho.vercel.app/",
     tech: ["react", "next", "laravel", "mysql"],
   },
-  {
-    name: "Juan Graphico",
-    image: "/projects/juan.jpg",
-    blurImage: "/projects/blur/shirt-blur.png",
-    description: "Ecommerce Website MERN stack with payment method",
-    gradient: ["#245B57", "#004741"],
-    url: "https://graphico-tau.vercel.app/",
-    tech: ["redux", "react", "mongodb", "tailwind"],
-  },
-
   {
     name: "Job Seekers",
     image: "/projects/jobs.png",

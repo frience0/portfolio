@@ -63,7 +63,7 @@ const AboutSection = () => {
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I am a passionate Frontend Engineer with 1 year of work experience who
+        I am a passionate Frontend Engineer with 2 years of work experience who
         bridges the gap between development and design.{" "}
       </span>
       <span
