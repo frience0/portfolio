@@ -35,10 +35,10 @@ export const TYPED_STRINGS = [
   "I design and develop motion",
 ];
 
-export const EMAIL = "marckfriencecoto30@gmail.com";
+export const EMAIL = "marckfrience0@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/new-email-a01b6b371/",
+  linkedin: "https://www.linkedin.com/in/marck-frience-coto-a01b6b371/",
   github: "https://github.com/frience0",
   medium: "https://medium.com/@marckfriencecoto/",
   instagram: "https://www.instagram.com/",
