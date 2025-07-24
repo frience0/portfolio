@@ -38,8 +38,8 @@ export const TYPED_STRINGS = [
 export const EMAIL = "marckfriencecoto30@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/marck-frience-coto-31065a337/",
-  github: "https://github.com/Marck-Prog",
+  linkedin: "https://www.linkedin.com/in/new-email-a01b6b371/",
+  github: "https://github.com/frience0",
   medium: "https://medium.com/@marckfriencecoto/",
   instagram: "https://www.instagram.com/",
   facebook: "https://www.facebook.com/",
